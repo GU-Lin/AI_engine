@@ -1,5 +1,11 @@
 # AI_deploy
 Deploy AI model for different AI engine base on yolov9
+# Environment
+* GPU : RTX3050 Laptop 4G
+* opencv : 4.10
+* tensorRT : release/10.6
+* cuda : 12.6
+* yolov9
 # Build package
 ```
 ./make_build --opencv --tensorRT
